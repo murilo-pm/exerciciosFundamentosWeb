@@ -1,2 +1,2 @@
 # exerciciosFundamentosWeb
-Resolução de exercícios de HTML5 do bootcamp da Generation
+Resolução de exercícios de fundamentos de Web do bootcamp da Generation
