@@ -1,0 +1,45 @@
+/*estilos da página index.html*/
+
+.center{
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    /*flex-flow: row;*/
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 45px;
+    /*margin: 45px
+    padding é dentro de elemento, e margin é fora do elemento
+    */;
+}
+
+#menu li a{
+    text-decoration: none;
+    color:rgb(141, 5, 84);
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    color:forestgreen
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.br-5{
+    border-radius: 5%;
+}
+
+
+
+
+
+/*estilos da página contato.html*/
