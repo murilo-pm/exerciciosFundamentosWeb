@@ -12,6 +12,13 @@
     align-items: center;
 }
 
+.flex-container2{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
 #menu li{
     display: inline;
     padding: 45px;
@@ -34,12 +41,25 @@
     padding: 30px;
 }
 
+.p-15{
+    padding: 15px;
+}
+
 .br-5{
     border-radius: 5%;
 }
 
+.tm-rede-social{
+    width: 25px;
+    height: 25px;
+}
 
-
-
+.mb-50{
+    margin-bottom: 50px;
+}
 
 /*estilos da página contato.html*/
+
+.ml-50{
+    margin-left: 50px;
+}
